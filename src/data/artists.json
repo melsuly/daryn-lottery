@@ -1,0 +1,486 @@
+[
+    {
+        "name": "Ariana Grande",
+        "picture": "public/avatar/Ariana Grande.jpg",
+        "audio": "!!Ariana Grande.mp3"
+    },
+    { "name": "BTS", "picture": "public/avatar/BTS.jpg", "audio": "!!BTS.mp3" },
+    {
+        "name": "Chase Atlantic",
+        "picture": "public/avatar/Chase Atlantic.jpg",
+        "audio": "!!Chase Atlantic.mp3"
+    },
+    {
+        "name": "Doja Cat",
+        "picture": "public/avatar/Doja Cat.jpg",
+        "audio": "!!Doja Cat.mp3"
+    },
+    {
+        "name": "Ninety One",
+        "picture": "public/avatar/Ninety One.jpg",
+        "audio": "!!Ninety One.mp3"
+    },
+    {
+        "name": "Say Mo",
+        "picture": "public/avatar/Say Mo.jpg",
+        "audio": "!!Say Mo.mp3"
+    },
+    {
+        "name": "The Weeknd",
+        "picture": "public/avatar/The Weeknd.jpg",
+        "audio": "!!The Weeknd.mp3"
+    },
+    { "name": "sza", "picture": "public/avatar/sza.jpg", "audio": "!!sza.mp3" },
+    {
+        "name": "Ирина Кайратовна",
+        "picture": "public/avatar/Ирина Кайратовна.jpg",
+        "audio": "!!Ирина Кайратовна.mp3"
+    },
+    {
+        "name": "Қайрат Нұртас",
+        "picture": "public/avatar/Қайрат Нұртас.jpg",
+        "audio": "!!Қайрат Нұртас.mp3"
+    },
+    {
+        "name": "Alpha",
+        "picture": "public/avatar/Alpha.jpg",
+        "audio": "!Alpha.mp3"
+    },
+    {
+        "name": "Billie Eilish",
+        "picture": "public/avatar/Billie Eilish.jpg",
+        "audio": "!Billie Eilish.mp3"
+    },
+    {
+        "name": "CKay",
+        "picture": "public/avatar/CKay.jpg",
+        "audio": "!CKay.mp3"
+    },
+    {
+        "name": "Cardi B",
+        "picture": "public/avatar/Cardi B.jpg",
+        "audio": "!Cardi B.mp3"
+    },
+    {
+        "name": "Dua Lipa",
+        "picture": "public/avatar/Dua Lipa.jpeg",
+        "audio": "!Dua Lipa.mp3"
+    },
+    {
+        "name": "Eminem",
+        "picture": "public/avatar/Eminem.jpg",
+        "audio": "!Eminem.mp3"
+    },
+    {
+        "name": "Enhypen",
+        "picture": "public/avatar/Enhypen.jpg",
+        "audio": "!Enhypen.mp3"
+    },
+    {
+        "name": "Erke-Raim",
+        "picture": "public/avatar/Erke-Raim.jpg",
+        "audio": "!Erke-Raim.mp3"
+    },
+    {
+        "name": "Fujii kaze",
+        "picture": "public/avatar/Fujii kaze.jpg",
+        "audio": "!Fujii kaze.mp3"
+    },
+    {
+        "name": "Instasamka",
+        "picture": "public/avatar/Instasamka.jpg",
+        "audio": "!Instasamka.mp3"
+    },
+    {
+        "name": "Jay park",
+        "picture": "public/avatar/Jay park.jpg",
+        "audio": "!Jay park.mp3"
+    },
+    {
+        "name": "Jony",
+        "picture": "public/avatar/Jony.jpeg",
+        "audio": "!Jony.mp3"
+    },
+    {
+        "name": "Jungkook",
+        "picture": "public/avatar/Jungkook.jpg",
+        "audio": "!Jungkook.mp3"
+    },
+    {
+        "name": "Maneskin",
+        "picture": "public/avatar/Maneskin.jpg",
+        "audio": "!Maneskin.mp3"
+    },
+    {
+        "name": "Marhaba Sabi",
+        "picture": "public/avatar/Marhaba Sabi.jpg",
+        "audio": "!Marhaba Sabi.mp3"
+    },
+    {
+        "name": "Michael Jackson",
+        "picture": "public/avatar/Michael Jackson.jpg",
+        "audio": "!Michael Jackson.mp3"
+    },
+    {
+        "name": "Rihanna",
+        "picture": "public/avatar/Rihanna.jpg",
+        "audio": "!Rihanna.mp3"
+    },
+    {
+        "name": "Sadraddin",
+        "picture": "public/avatar/Sadraddin.jpg",
+        "audio": "!Sadraddin.mp3"
+    },
+    {
+        "name": "Shakira",
+        "picture": "public/avatar/Shakira.jpg",
+        "audio": "!Shakira.mp3"
+    },
+    {
+        "name": "Shiza",
+        "picture": "public/avatar/Shiza.png",
+        "audio": "!Shiza.mp3"
+    },
+    {
+        "name": "Stray Kids",
+        "picture": "public/avatar/Stray Kids.jpg",
+        "audio": "!Stray Kids.mp3"
+    },
+    {
+        "name": "TEDDYALISH",
+        "picture": "public/avatar/TEDDYALISH.jpg",
+        "audio": "!TEDDYALISH.mp3"
+    },
+    {
+        "name": "The Kid Laroi",
+        "picture": "public/avatar/The Kid Laroi.jpg",
+        "audio": "!The Kid Laroi.mp3"
+    },
+    {
+        "name": "The Limba",
+        "picture": "public/avatar/The Limba.jpg",
+        "audio": "!The Limba.mp3"
+    },
+    {
+        "name": "The neighbourhood",
+        "picture": "public/avatar/The neighbourhood.jpg",
+        "audio": "!The neighbourhood.mp3"
+    },
+    {
+        "name": "Tongue tied",
+        "picture": "public/avatar/Tongue tied.jpg",
+        "audio": "!Tongue tied.mp3"
+    },
+    {
+        "name": "Tyla",
+        "picture": "public/avatar/Tyla.jpg",
+        "audio": "!Tyla.mp3"
+    },
+    {
+        "name": "Xxxtentacion",
+        "picture": "public/avatar/Xxxtentacion.jpg",
+        "audio": "!Xxxtentacion.mp3"
+    },
+    {
+        "name": "twenty one pilots",
+        "picture": "public/avatar/twenty one pilots.jpg",
+        "audio": "!twenty one pilots.mp3"
+    },
+    {
+        "name": "Мирас Жүгінісов",
+        "picture": "public/avatar/Мирас Жүгінісов.jpg",
+        "audio": "!Мирас Жүгінісов.mp3"
+    },
+    {
+        "name": "50 Cent",
+        "picture": "public/avatar/50 Cent.jpg",
+        "audio": "50 Cent.mp3"
+    },
+    {
+        "name": "Aaron Smith",
+        "picture": "public/avatar/Aaron Smith.jpg",
+        "audio": "Aaron Smith.mp3"
+    },
+    {
+        "name": "Adam Levine",
+        "picture": "public/avatar/Adam Levine.jpg",
+        "audio": "Adam Levine.mp3"
+    },
+    {
+        "name": "Alem Band",
+        "picture": "public/avatar/Alem Band.jpg",
+        "audio": "Alem Band.mp3"
+    },
+    {
+        "name": "Andy Panda",
+        "picture": "public/avatar/Andy Panda.jpg",
+        "audio": "Andy Panda.mp3"
+    },
+    {
+        "name": "Arctic Monkeys",
+        "picture": "public/avatar/Arctic Monkeys.jpg",
+        "audio": "Arctic Monkeys.mp3"
+    },
+    {
+        "name": "Avicii",
+        "picture": "public/avatar/Avicii.jpg",
+        "audio": "Avicii.mp3"
+    },
+    {
+        "name": "Ayau",
+        "picture": "public/avatar/Ayau.jpg",
+        "audio": "Ayau.mp3"
+    },
+    {
+        "name": "BIBI",
+        "picture": "public/avatar/BIBI.jpg",
+        "audio": "BIBI.mp3"
+    },
+    {
+        "name": "Bakr",
+        "picture": "public/avatar/Bakr.jpg",
+        "audio": "Bakr.mp3"
+    },
+    {
+        "name": "Bay city",
+        "picture": "public/avatar/Bay city.jpg",
+        "audio": "Bay city.mp3"
+    },
+    {
+        "name": "Beabadoobee",
+        "picture": "public/avatar/Beabadoobee.jpg",
+        "audio": "Beabadoobee.mp3"
+    },
+    {
+        "name": "Bruno Mars",
+        "picture": "public/avatar/Bruno Mars.jpg",
+        "audio": "Bruno Mars.mp3"
+    },
+    {
+        "name": "Coldplay",
+        "picture": "public/avatar/Coldplay.jpg",
+        "audio": "Coldplay.mp3"
+    },
+    {
+        "name": "Dequine",
+        "picture": "public/avatar/Dequine.jpg",
+        "audio": "Dequine.mp3"
+    },
+    {
+        "name": "Dimash Kudaibergen",
+        "picture": "public/avatar/Dimash Kudaibergen.jpg",
+        "audio": "Dimash Kudaibergen.mp3"
+    },
+    {
+        "name": "Girl in red",
+        "picture": "public/avatar/Girl in red.jpg",
+        "audio": "Girl in red.mp3"
+    },
+    {
+        "name": "Glass Animals",
+        "picture": "public/avatar/Glass Animals.jpg",
+        "audio": "Glass Animals.mp3"
+    },
+    {
+        "name": "Grandson",
+        "picture": "public/avatar/Grandson.jpg",
+        "audio": "Grandson.mp3"
+    },
+    {
+        "name": "Harry Styles",
+        "picture": "public/avatar/Harry Styles.jpeg",
+        "audio": "Harry Styles.mp3"
+    },
+    {
+        "name": "Hwasa",
+        "picture": "public/avatar/Hwasa.jpg",
+        "audio": "Hwasa.mp3"
+    },
+    {
+        "name": "Joji",
+        "picture": "public/avatar/Joji.jpg",
+        "audio": "Joji.mp3"
+    },
+    {
+        "name": "Kostromin",
+        "picture": "public/avatar/Kostromin.jpg",
+        "audio": "Kostromin.mp3"
+    },
+    {
+        "name": "Lana Del Ray",
+        "picture": "public/avatar/Lana Del Ray.png",
+        "audio": "Lana Del Ray.mp3"
+    },
+    {
+        "name": "Lil Uzi Vert",
+        "picture": "public/avatar/Lil Uzi Vert.jpg",
+        "audio": "Lil Uzi Vert.mp3"
+    },
+    {
+        "name": "Lisa",
+        "picture": "public/avatar/Lisa.jpg",
+        "audio": "Lisa.mp3"
+    },
+    {
+        "name": "M'Dee",
+        "picture": "public/avatar/M'Dee.jpg",
+        "audio": "M'Dee.mp3"
+    },
+    {
+        "name": "Mac Demarco",
+        "picture": "public/avatar/Mac Demarco.jpg",
+        "audio": "Mac Demarco.mp3"
+    },
+    {
+        "name": "Mac Miller",
+        "picture": "public/avatar/Mac Miller.jpg",
+        "audio": "Mac Miller.mp3"
+    },
+    {
+        "name": "Minelli",
+        "picture": "public/avatar/Minelli.jpg",
+        "audio": "Minelli.mp3"
+    },
+    {
+        "name": "Moldanazar",
+        "picture": "public/avatar/Moldanazar.jpg",
+        "audio": "Moldanazar.mp3"
+    },
+    {
+        "name": "Muhtar Hanzada",
+        "picture": "public/avatar/Muhtar Hanzada.jpg",
+        "audio": "Muhtar Hanzada.mp3"
+    },
+    {
+        "name": "NewJeans",
+        "picture": "public/avatar/NewJeans.jpg",
+        "audio": "NewJeans.mp3"
+    },
+    {
+        "name": "Nicki Minaj",
+        "picture": "public/avatar/Nicki Minaj.jpg",
+        "audio": "Nicki Minaj.mp3"
+    },
+    {
+        "name": "Olivia Rodrigo",
+        "picture": "public/avatar/Olivia Rodrigo.jpg",
+        "audio": "Olivia Rodrigo.mp3"
+    },
+    { "name": "PSY", "picture": "public/avatar/PSY.jpg", "audio": "PSY.mp3" },
+    {
+        "name": "PinkPantheress & Ice Spice",
+        "picture": "public/avatar/PinkPantheress & Ice Spice.jpg",
+        "audio": "PinkPantheress & Ice Spice.mp3"
+    },
+    {
+        "name": "Rex orange country",
+        "picture": "public/avatar/Rex orange country.jpg",
+        "audio": "Rex orange country.mp3"
+    },
+    {
+        "name": "Rihanna",
+        "picture": "public/avatar/Rihanna.jpg",
+        "audio": "Rihanna.mp3"
+    },
+    {
+        "name": "SHOOVAL",
+        "picture": "public/avatar/SHOOVAL.jpg",
+        "audio": "SHOOVAL.mp3"
+    },
+    {
+        "name": "Slava Marlow",
+        "picture": "public/avatar/Slava Marlow.jpg",
+        "audio": "Slava Marlow.mp3"
+    },
+    {
+        "name": "Stromae",
+        "picture": "public/avatar/Stromae.jpg",
+        "audio": "Stromae.mp3"
+    },
+    {
+        "name": "TV Girl",
+        "picture": "public/avatar/TV Girl.jpg",
+        "audio": "TV Girl.mp3"
+    },
+    {
+        "name": "Tate mcrae",
+        "picture": "public/avatar/Tate mcrae.jpg",
+        "audio": "Tate mcrae.mp3"
+    },
+    {
+        "name": "Timati",
+        "picture": "public/avatar/Timati.jpg",
+        "audio": "Timati.mp3"
+    },
+    {
+        "name": "Timbaland",
+        "picture": "public/avatar/Timbaland.jpg",
+        "audio": "Timbaland.mp3"
+    },
+    {
+        "name": "V $ X V PRiNCE x DE LACURE",
+        "picture": "public/avatar/V $ X V PRiNCE x DE LACURE.jpg",
+        "audio": "V $ X V PRiNCE x DE LACURE.mp3"
+    },
+    {
+        "name": "Wham",
+        "picture": "public/avatar/Wham.jpg",
+        "audio": "Wham.mp3"
+    },
+    {
+        "name": "Yenlik",
+        "picture": "public/avatar/Yenlik.png",
+        "audio": "Yenlik.mp3"
+    },
+    {
+        "name": "dudeontheguitar",
+        "picture": "public/avatar/dudeontheguitar.jpg",
+        "audio": "dudeontheguitar.mp3"
+    },
+    {
+        "name": "jeti x taspay",
+        "picture": "public/avatar/jeti x taspay.png",
+        "audio": "jeti x taspay.mp3"
+    },
+    { "name": "sia", "picture": "public/avatar/sia.jpg", "audio": "sia.mp3" },
+    {
+        "name": "ssshhhiiittt!",
+        "picture": "public/avatar/ssshhhiiittt!.jpg",
+        "audio": "ssshhhiiittt!.mp3"
+    },
+    {
+        "name": "tyler the creator",
+        "picture": "public/avatar/tyler the creator.jpg",
+        "audio": "tyler the creator.mp3"
+    },
+    {
+        "name": "Виктор Цой",
+        "picture": "public/avatar/Виктор Цой.jpg",
+        "audio": "Виктор Цой.mp3"
+    },
+    {
+        "name": "Время и Стекло",
+        "picture": "public/avatar/Время и Стекло.jpg",
+        "audio": "Время и Стекло.mp3"
+    },
+    {
+        "name": "Ерболат Кұдайберген",
+        "picture": "public/avatar/Ерболат Кұдайберген.jpg",
+        "audio": "Ерболат Кұдайберген.mp3"
+    },
+    {
+        "name": "Жолдас Абдиханов",
+        "picture": "public/avatar/Жолдас Абдиханов.jpg",
+        "audio": "Жолдас Абдиханов.mp3"
+    },
+    {
+        "name": "Заттыбек Көпбосынұлы",
+        "picture": "public/avatar/Заттыбек Көпбосынұлы.jpg",
+        "audio": "Заттыбек Көпбосынұлы.mp3"
+    },
+    {
+        "name": "Монеточка",
+        "picture": "public/avatar/Монеточка.jpg",
+        "audio": "Монеточка.mp3"
+    }
+]

@@ -1,8 +1,16 @@
 import os
 from PIL import ImageFont, Image, ImageDraw, ImageOps
 from io import BytesIO
+import json
 
 artists_without_pictures = []
+artists_json = []
+
+artist_json = {
+    "name": "",
+    "picture": "",
+    "audio": ""
+}
 
 
 def divide_into_sub_arrays(files, max_elements=4):
@@ -52,6 +60,8 @@ def draw_name(artist_name):
     ), 40)
     plate_color = colors["green"]
 
+    artist_json["audio"] = "{}.mp3".format(artist_name)
+
     if artist_name[0] == "!":
         artist_name = artist_name[1:]
         plate_color = colors["yellow"]
@@ -59,6 +69,8 @@ def draw_name(artist_name):
         if artist_name[0] == "!":
             artist_name = artist_name[1:]
             plate_color = colors["red"]
+
+    artist_json["name"] = artist_name
 
     plate = Image.new('RGB', (877, 70), color=plate_color)
     draw = ImageDraw.Draw(plate)
@@ -88,6 +100,8 @@ def draw_image(artist_name: str):
                 image = ImageOps.fit(image, (757, 877))
 
                 is_found = True
+
+                artist_json["picture"] = image_filename
             except:
                 pass
 
@@ -121,6 +135,7 @@ def generate_tickets(files):
             template.paste(draw_image(artist_name), box=(1723, 877 * j))
 
             ticket_number += 1
+            artists_json.append(artist_json.copy())
 
         template.save('design/tickets/tickets_{}.png'.format(i + 1))
         print("Part {} of {} generated!".format(i + 1, len(ticket_portions)))
@@ -138,5 +153,10 @@ if __name__ == '__main__':
     if artists_without_pictures:
         print("Artists without pictures: {}".format(
             ", ".join(artists_without_pictures)))
+
+    print("Writing artists.json...")
+
+    with open('src/data/artists.json', 'w') as outfile:
+        json.dump(artists_json, outfile, ensure_ascii=False)
 
     print("Done!")
